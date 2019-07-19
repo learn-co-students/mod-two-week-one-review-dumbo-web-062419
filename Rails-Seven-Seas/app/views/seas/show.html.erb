@@ -1,0 +1,12 @@
+<h1> <%= @sea.name %> </h1>
+
+Name: <%= @sea.name %><br>
+Temperature: <%= @sea.temperature %><br>
+Bio: <%= @sea.bio %><br>
+Image: <%= @sea.image_url %><br>
+Mood: <%= @sea.mood %><br>
+Favorite Color: <%= @sea.favorite_color %><br>
+Scariest Creature!: <%= @sea.scariest_creature %><br>
+Has Mermaids?: <%= @sea.has_mermaids %><br>
+
+<%= button_to "Delete", sea_path(@sea), method: :delete %>
