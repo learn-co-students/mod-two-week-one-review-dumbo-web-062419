@@ -1,0 +1,5 @@
+<h1>Seas Index Page</h1>
+
+<% @seas.each do |sea| %>
+  <%= link_to sea.name, sea_path(sea) %><br>
+<% end %>
