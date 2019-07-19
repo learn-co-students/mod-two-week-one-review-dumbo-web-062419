@@ -1,0 +1,13 @@
+<h1 align="center">Sea</h1>
+
+<p>Name: <%= @sea.name %></p>
+<p>Temp: <%= @sea.temperature %></p>
+<p>Bio: <%= @sea.bio %></p>
+<p>Mood: <%= @sea.mood %></p>
+<p>Fav Color: <%= @sea.favorite_color %></p>
+<p>Scariest Creature: <%= @sea.scariest_creature %></p>
+
+
+<%= link_to "edit", edit_sea_path(@sea) %>
+
+<%= button_to "delete", sea_path(@sea), method: :delete %>
