@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rails-Seven-Seas.iml" filepath="$PROJECT_DIR$/.idea/modules/Rails-Seven-Seas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mod-two-week-one-review-dumbo-web-062419.iml" filepath="$PROJECT_DIR$/.idea/mod-two-week-one-review-dumbo-web-062419.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sinatra-seven-seas.iml" filepath="$PROJECT_DIR$/.idea/modules/sinatra-seven-seas.iml" />
+    </modules>
+  </component>
+</project>

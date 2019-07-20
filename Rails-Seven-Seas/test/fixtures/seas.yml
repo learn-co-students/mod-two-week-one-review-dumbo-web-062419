@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  temperature: 9.99
+  bio: MyText
+  image_url: MyText
+  mood: MyText
+  favorite_color: MyText
+  scariest_creature: MyText
+  has_mermaids: false
+
+two:
+  name: MyText
+  temperature: 9.99
+  bio: MyText
+  image_url: MyText
+  mood: MyText
+  favorite_color: MyText
+  scariest_creature: MyText
+  has_mermaids: false
