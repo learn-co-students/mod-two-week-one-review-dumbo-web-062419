@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ab16b6-08d9-4204-be4f-e433d768c568" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mod-two-week-one-review-dumbo-web-062419.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Rails-Seven-Seas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/sinatra-seven-seas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/welcome.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/edit.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/new.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails-Seven-Seas/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails-Seven-Seas/db/seeds.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -87,13 +69,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
+            <state relative-caret-position="819">
               <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -152,9 +134,9 @@
         <option value="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/new.html.erb" />
         <option value="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/show.html.erb" />
         <option value="$PROJECT_DIR$/sinatra-seven-seas/app/views/edit.html.erb" />
-        <option value="$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb" />
         <option value="$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb" />
         <option value="$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/edit.html.erb" />
+        <option value="$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -313,12 +295,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563641996807</updated>
-      <workItem from="1563641998176" duration="14319000" />
+      <workItem from="1563641998176" duration="14533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14319000" />
+    <option name="totallyTimeSpent" value="14533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1924" height="1052" extended-state="6" />
@@ -486,20 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/app/views/seas/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -524,6 +492,20 @@
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/app/controllers/seas_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rails-Seven-Seas/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
