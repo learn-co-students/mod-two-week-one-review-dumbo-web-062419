@@ -1,28 +1,36 @@
-<%= form_for @sea do |f| %>
-  <%= f.label :name %>
-  <%= f.text_field :name %>
+<div class="container">
 
-  <%= f.label :temperature %>
-  <%= f.number_field :temperature %>
+  <%= form_for @sea do |f| %>
+    <%= f.label :name %>
+    <%= f.text_field :name, class: "form-control" %>
 
-  <%= f.label :bio %>
-  <%= f.text_area :bio %>
+    <%= f.label :bio %>
+    <%= f.text_field :bio, class: "form-control" %>
 
-  <%= f.label :image_url %>
-  <%= f.text_field :image_url %>
+    <%= f.label :image_url %>
+    <%= f.text_field :image_url, class: "form-control" %>
 
-  <%= f.label :mood %>
-  <%= f.text_field :mood %>
+    <%= f.label :temperature %>
+    <%= f.number_field :temperature, class: "form-control" %>
 
-  <%= f.label :favorite_color %>
-  <%= f.text_field :favorite_color %>
+    <%= f.label :favorite_color %>
+    <%= f.text_field :favorite_color, class: "form-control" %>
 
-  <%= f.label :scariest_creature %>
-  <%= f.text_field :scariest_creature %>
+    <%= f.label :scariest_creature %>
+    <%= f.text_field :scariest_creature, class: "form-control" %>
 
-  <%= f.label :has_mermaids %>
-  <%= f.check_box :has_mermaids %>
+    <%= f.label :mood %>
+    <%= f.text_field :mood, class: "form-control" %>
 
-  <%=  f.submit %>
+
+    <%= f.check_box :has_mermaids %>
+    <%= f.label :has_mermaids %>
+
+    <%=  f.submit 'Submit Query', :class=> 'form-control btn btn-info' %>
 
   <% end %>
+
+  <div class="text-center">
+    <button class="btn btn-info" style="margin: 1em"><a class="btn-info" href="/seas">All Seas</a></button>
+  </div>
+</div>
